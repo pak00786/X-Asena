@@ -2,7 +2,7 @@
 
 # [DEPLOY](https://heroku.com/deploy?template=https://github.com/X-Electra/X-Asena) 
 
-# Using X-asena 
+# Using X-asena .
 ## Creating a plugin 
 ```javascript
 const { command ,isPrivate} = require("../lib/");//importing functions 
